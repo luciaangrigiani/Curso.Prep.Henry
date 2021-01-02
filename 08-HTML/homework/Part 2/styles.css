@@ -1,0 +1,30 @@
+body{
+    background-color: #d0b0ff7a;
+    align-self: center;
+    width: 50%;
+    margin: auto;
+}
+#profilepic{
+    width: 30%;
+    position: relative;
+    display: block;
+    margin-left: 35%;
+}
+#tituloFoto{
+    text-align: center;
+}
+
+#enHenry{
+    display: inline-flex;
+}
+
+#enHenry img {
+    width: 20%;
+    display: flex;
+}
+/*
+.description {
+}
+div div{
+}
+*/
